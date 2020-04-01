@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/RockyChennn</id>
+    <id>https://RockyChennn.github.io</id>
     <title>曾想去冒险</title>
-    <updated>2020-04-01T10:05:02.238Z</updated>
+    <updated>2020-04-01T10:07:04.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/RockyChennn"/>
-    <link rel="self" href="https://github.com/RockyChennn/atom.xml"/>
+    <link rel="alternate" href="https://RockyChennn.github.io"/>
+    <link rel="self" href="https://RockyChennn.github.io/atom.xml"/>
     <subtitle>Hello World</subtitle>
-    <logo>https://github.com/RockyChennn/images/avatar.png</logo>
-    <icon>https://github.com/RockyChennn/favicon.ico</icon>
+    <logo>https://RockyChennn.github.io/images/avatar.png</logo>
+    <icon>https://RockyChennn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 曾想去冒险</rights>
     <entry>
         <title type="html"><![CDATA[当我睡醒时我该想些什么]]></title>
-        <id>https://github.com/RockyChennn/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
-        <link href="https://github.com/RockyChennn/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
+        <id>https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
+        <link href="https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
         </link>
         <updated>2020-04-01T10:03:29.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://github.com/RockyChennn/post-images/1585735466044.jpg" alt="" loading="lazy"><br>
+        <content type="html"><![CDATA[<p><img src="https://RockyChennn.github.io/post-images/1585735466044.jpg" alt="" loading="lazy"><br>
 还想睡</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/RockyChennn/post/hello-gridea/</id>
-        <link href="https://github.com/RockyChennn/post/hello-gridea/">
+        <id>https://RockyChennn.github.io/post/hello-gridea/</id>
+        <link href="https://RockyChennn.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
