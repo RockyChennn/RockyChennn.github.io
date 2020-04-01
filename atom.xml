@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RockyChennn.github.io</id>
     <title>曾想去冒险</title>
-    <updated>2020-04-01T10:35:42.352Z</updated>
+    <updated>2020-04-01T10:47:50.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RockyChennn.github.io"/>
     <link rel="self" href="https://RockyChennn.github.io/atom.xml"/>
@@ -11,12 +11,29 @@
     <icon>https://RockyChennn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 曾想去冒险</rights>
     <entry>
+        <title type="html"><![CDATA[湖心亭看雪 张岱]]></title>
+        <id>https://RockyChennn.github.io/post/hu-xin-ting-kan-xue-zhang-dai/</id>
+        <link href="https://RockyChennn.github.io/post/hu-xin-ting-kan-xue-zhang-dai/">
+        </link>
+        <updated>2020-04-01T10:38:04.000Z</updated>
+        <content type="html"><![CDATA[<p>崇祯五年十二月，余住西湖。大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪。<!-- more -->雾凇沆砀，天与云与山与水，上下一白。湖上影子，惟长堤一痕、湖心亭一点、与余舟一芥，舟中人两三粒而已。</p>
+<p>到亭上，有两人铺毡对坐，一童子烧酒炉正沸。见余，大喜曰：“湖中焉得更有此人！”拉余同饮。余强饮三大白而别。问其姓氏，是金陵人，客此。及下船，舟子喃喃曰：“莫说相公痴，更有痴似相公者！”</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dream Dawn]]></title>
         <id>https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
         <link href="https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
         </link>
         <updated>2020-04-01T10:03:29.000Z</updated>
-        <content type="html"><![CDATA[<p>时间可以改变一切</p>
+        <content type="html"><![CDATA[<p>这是梦想的黎明<br>
+但它依旧黑暗</p>
+<p>时间已经改变了一切<br>
+时间正在改变一切</p>
+<p>回首过去<br>
+都已走远</p>
+<p>愿我回头望去<br>
+这依旧是一个美好的开始</p>
 ]]></content>
     </entry>
 </feed>
