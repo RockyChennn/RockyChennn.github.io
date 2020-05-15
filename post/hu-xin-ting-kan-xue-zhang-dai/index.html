@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>湖心亭看雪 张岱 | Wyatt&#39;s Blog</title>
-<link rel="shortcut icon" href="https://RockyChennn.github.io/favicon.ico?v=1585738852315">
+<link rel="shortcut icon" href="https://RockyChennn.github.io/favicon.ico?v=1589587065664">
 <link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
 <link rel="stylesheet" href="https://RockyChennn.github.io/styles/main.css">
 <link rel="alternate" type="application/atom+xml" title="湖心亭看雪 张岱 | Wyatt&#39;s Blog - Atom Feed" href="https://RockyChennn.github.io/atom.xml">
@@ -22,13 +22,13 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://RockyChennn.github.io">
-  <img class="avatar" src="https://RockyChennn.github.io/images/avatar.png?v=1585738852315" alt="">
+  <img class="avatar" src="https://RockyChennn.github.io/images/avatar.png?v=1589587065664" alt="">
   </a>
   <h1 class="site-title">
     Wyatt&#39;s Blog
   </h1>
   <p class="site-description">
-    如果可以的话 我愿意诗意的栖居
+    如果可以 我想诗意的栖居
   </p>
   <div class="menu-container">
     
@@ -105,20 +105,37 @@
         </div>
 
         
-          <div class="next-post">
-            <div class="next">下一篇</div>
-            <a href="https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
-              <h3 class="post-title">
-                Dream Dawn
-              </h3>
-            </a>
-          </div>
-        
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'a262c87cdd23ff5ea1d2',
+    clientSecret: '48c1e4e7f26b0927af2ebc3977a2146f50f763b7',
+    repo: 'Gitalk-Store',
+    owner: 'RockyChennn',
+    admin: ['RockyChennn'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
-  Power By Gridea
+  
   <a class="rss" href="https://RockyChennn.github.io/atom.xml" target="_blank">
     <i class="ri-rss-line"></i> RSS
   </a>

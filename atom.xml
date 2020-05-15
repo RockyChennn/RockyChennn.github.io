@@ -2,24 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RockyChennn.github.io</id>
     <title>Wyatt&apos;s Blog</title>
-    <updated>2020-04-01T11:00:54.366Z</updated>
+    <updated>2020-05-15T23:58:44.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RockyChennn.github.io"/>
     <link rel="self" href="https://RockyChennn.github.io/atom.xml"/>
-    <subtitle>如果可以的话 我愿意诗意的栖居</subtitle>
+    <subtitle>如果可以 我想诗意的栖居</subtitle>
     <logo>https://RockyChennn.github.io/images/avatar.png</logo>
     <icon>https://RockyChennn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wyatt&apos;s Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[湖心亭看雪 张岱]]></title>
-        <id>https://RockyChennn.github.io/post/hu-xin-ting-kan-xue-zhang-dai/</id>
-        <link href="https://RockyChennn.github.io/post/hu-xin-ting-kan-xue-zhang-dai/">
-        </link>
-        <updated>2020-04-01T10:38:04.000Z</updated>
-        <content type="html"><![CDATA[<p>崇祯五年十二月，余住西湖。大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪。<!-- more -->雾凇沆砀，天与云与山与水，上下一白。湖上影子，惟长堤一痕、湖心亭一点、与余舟一芥，舟中人两三粒而已。</p>
-<p>到亭上，有两人铺毡对坐，一童子烧酒炉正沸。见余，大喜曰：“湖中焉得更有此人！”拉余同饮。余强饮三大白而别。问其姓氏，是金陵人，客此。及下船，舟子喃喃曰：“莫说相公痴，更有痴似相公者！”</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Dawn]]></title>
         <id>https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
