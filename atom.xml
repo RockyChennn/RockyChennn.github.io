@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RockyChennn.github.io</id>
     <title>Wyatt&apos;s Blog</title>
-    <updated>2020-05-16T00:17:38.837Z</updated>
+    <updated>2020-07-16T09:13:41.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RockyChennn.github.io"/>
     <link rel="self" href="https://RockyChennn.github.io/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://RockyChennn.github.io/images/avatar.png</logo>
     <icon>https://RockyChennn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wyatt&apos;s Blog</rights>
-    <entry>
-        <title type="html"><![CDATA[每日写作]]></title>
-        <id>https://RockyChennn.github.io/post/mei-ri-xie-zuo/</id>
-        <link href="https://RockyChennn.github.io/post/mei-ri-xie-zuo/">
-        </link>
-        <updated>2020-05-16T00:02:34.000Z</updated>
-        <content type="html"><![CDATA[<p>🤡<img src="https://RockyChennn.github.io/post-images/1589588219950.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Dawn]]></title>
         <id>https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
