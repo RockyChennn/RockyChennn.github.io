@@ -1,9 +1,11 @@
+
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>一方天地</title>
+<title>读《道德经说什么》 | 一方天地</title>
 <meta name="description" content="日月星辰转 心不为所动">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -14,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://RockyChennn.github.io/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -69,43 +77,51 @@
 </transition>
 
 
-        <div class="content-container">
+      <div class="content-container">
+        <div class="post-detail">
           
-          
+          <h2 class="post-title">读《道德经说什么》</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2020-08-08</span>
+            
+          </div>
+          <div class="post-content">
+            <blockquote>
+<p>本文充斥着我个人的见解，仅代表我个人的愚昧，不反映作者水平。</p>
+</blockquote>
+<p><strong>夫唯弗居，是以弗去。</strong>——不居功自傲就不会失去</p>
+<p><strong>道，可道也，非恒道也。名，可名也，非恒名也。</strong></p>
+<p>第一个道，指道路，引申为真理。</p>
+<p>第二个道，指动词，走上道路，遵循真理的意思。</p>
+<p>整体意思：道是可以遵循的，但它并非稳定不变的。事物是可描述的，但对事物的描述不是永恒不变的。</p>
+<p>感想：老子从很宏大的时空观来看待世界。就连大道本身都是会改变的，那人生为何还要追去确定性(财富、名声)。即使幸运地实现了目标，那么又如何抗拒人生目标的变化。这句话是全书的开篇，作者告诉我们事物的不确定性，后续应该还好由此来引申如何“抗拒”这种非恒的客观事实。</p>
+<blockquote>
+<p>常见的《道德经》版本都是“道，可道也，非常道也”，这是因为要避汉文帝刘恒的讳。</p>
+</blockquote>
 
-<div class="archives-container">
-  
-    <h2 class="year">2020</h2>
-    
-      
-        <article class="post">
-          <a href="https://RockyChennn.github.io/post/lesslessdao-de-jing-shuo-shi-me-greatergreater-bi-ji/">
-            <h2 class="post-title">
-              读《道德经说什么》
-              <small>2020-08-08</small>
-            </h2>
-          </a>
-        </article>
-      
-    
-      
-        <article class="post">
-          <a href="https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
-            <h2 class="post-title">
-              Dream Dawn
-              <small>2020-04-01</small>
-            </h2>
-          </a>
-        </article>
-      
-    
-  
-</div>
-
-
+          </div>
         </div>
 
-        <div class="site-footer">
+        
+          <div class="next-post">
+            <a class="purple-link" href="https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/">
+              <h3 class="post-title">
+                下一篇：Dream Dawn
+              </h3>
+            </a>
+          </div>
+          
+      </div>
+
+      
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
+
+      <div class="site-footer">
   <div class="slogan">日月星辰转 心不为所动</div>
   <div class="social-container">
     
@@ -128,8 +144,8 @@
 </div>
 
 
-      </div>
-      <script type="application/javascript">
+    </div>
+    <script type="application/javascript">
 
 hljs.initHighlightingOnLoad()
 
@@ -144,7 +160,29 @@ var app = new Vue({
 
 
 
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
 
-    </div>
+      var gitalk = new Gitalk({
+        clientID: 'a262c87cdd23ff5ea1d2',
+        clientSecret: '48c1e4e7f26b0927af2ebc3977a2146f50f763b7',
+        repo: 'Gitalk-Store',
+        owner: 'RockyChennn',
+        admin: ['RockyChennn'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
   </body>
 </html>

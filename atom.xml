@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RockyChennn.github.io</id>
-    <title>Wyatt&apos;s Blog</title>
-    <updated>2020-08-08T01:50:04.313Z</updated>
+    <title>一方天地</title>
+    <updated>2020-08-08T01:59:04.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RockyChennn.github.io"/>
     <link rel="self" href="https://RockyChennn.github.io/atom.xml"/>
-    <subtitle>日积月累 不负韶华</subtitle>
+    <subtitle>日月星辰转 心不为所动</subtitle>
     <logo>https://RockyChennn.github.io/images/avatar.png</logo>
     <icon>https://RockyChennn.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Wyatt&apos;s Blog</rights>
+    <rights>All rights reserved 2020, 一方天地</rights>
+    <entry>
+        <title type="html"><![CDATA[读《道德经说什么》]]></title>
+        <id>https://RockyChennn.github.io/post/lesslessdao-de-jing-shuo-shi-me-greatergreater-bi-ji/</id>
+        <link href="https://RockyChennn.github.io/post/lesslessdao-de-jing-shuo-shi-me-greatergreater-bi-ji/">
+        </link>
+        <updated>2020-08-08T01:54:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>本文充斥着我个人的见解，仅代表我个人的愚昧，不反映作者水平。</p>
+</blockquote>
+<p><strong>夫唯弗居，是以弗去。</strong>——不居功自傲就不会失去</p>
+<p><strong>道，可道也，非恒道也。名，可名也，非恒名也。</strong></p>
+<p>第一个道，指道路，引申为真理。</p>
+<p>第二个道，指动词，走上道路，遵循真理的意思。</p>
+<p>整体意思：道是可以遵循的，但它并非稳定不变的。事物是可描述的，但对事物的描述不是永恒不变的。</p>
+<p>感想：老子从很宏大的时空观来看待世界。就连大道本身都是会改变的，那人生为何还要追去确定性(财富、名声)。即使幸运地实现了目标，那么又如何抗拒人生目标的变化。这句话是全书的开篇，作者告诉我们事物的不确定性，后续应该还好由此来引申如何“抗拒”这种非恒的客观事实。</p>
+<blockquote>
+<p>常见的《道德经》版本都是“道，可道也，非常道也”，这是因为要避汉文帝刘恒的讳。</p>
+</blockquote>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dream Dawn]]></title>
         <id>https://RockyChennn.github.io/post/dang-wo-shui-xing-shi-wo-gai-xiang-xie-shi-me/</id>
